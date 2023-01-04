@@ -18,18 +18,18 @@
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Headers\Loader.h">
+    <ClCompile Include="Headers\EventLoader.h">
       <Filter>Header Files</Filter>
     </ClCompile>
-    <ClCompile Include="Loader.cpp">
+    <ClCompile Include="EventLoader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Saver.cpp">
+    <ClCompile Include="EventSaver.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Saver.h">
+    <ClInclude Include="Headers\EventSaver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
